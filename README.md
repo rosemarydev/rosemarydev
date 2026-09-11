@@ -14,7 +14,7 @@
 
 <br/>
 
-## ⚡ about me
+## about me
 
 ```yaml
 role: Builder → joining OpenAI (starting [Month Year])
@@ -25,24 +25,24 @@ motto: "building things the internet probably doesn't need"
 
 <br/>
 
-## 🛠️ projects
+## projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔹 [Project Name One]
-[One-line description of what it does and why it's cool]
+### [PROJECT — swap for real name]
+[e.g. "internal eval tooling for model X" — replace with what you actually built]
 
-`Tech` `Stack` `Here`
+`Python` `Tech` `Stack`
 
 [![View](https://img.shields.io/badge/View-Repo-8B5CF6?style=flat-square&logo=github)](https://github.com/rosemarydev)
 
 </td>
 <td width="50%">
 
-### 🔹 [Project Name Two]
-[One-line description of what it does and why it's cool]
+### [PROJECT — swap for real name]
+[replace with your actual OpenAI/internship work once you can name it]
 
 `Tech` `Stack` `Here`
 
@@ -53,7 +53,7 @@ motto: "building things the internet probably doesn't need"
 <tr>
 <td width="50%">
 
-### 🔹 [Project Name Three]
+### [Project Name Three]
 [One-line description of what it does and why it's cool]
 
 `Tech` `Stack` `Here`
@@ -63,7 +63,7 @@ motto: "building things the internet probably doesn't need"
 </td>
 <td width="50%">
 
-### 🔹 [Project Name Four]
+### [Project Name Four]
 [One-line description of what it does and why it's cool]
 
 `Tech` `Stack` `Here`
@@ -76,7 +76,7 @@ motto: "building things the internet probably doesn't need"
 
 <br/>
 
-## 🧠 tech stack
+## tech stack
 
 <div align="center">
 
@@ -86,12 +86,12 @@ motto: "building things the internet probably doesn't need"
 
 <br/>
 
-## 📊 stats
+## stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rosemarydev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rosemarydev&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=rosemarydev&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarydev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -99,7 +99,7 @@ motto: "building things the internet probably doesn't need"
 
 <br/>
 
-## 📈 contribution graph
+## contribution graph
 
 <div align="center">
 
@@ -109,7 +109,7 @@ motto: "building things the internet probably doesn't need"
 
 <br/>
 
-## 🐍 contribution snake
+## contribution snake
 
 <div align="center">
 
