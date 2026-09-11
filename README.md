@@ -17,10 +17,8 @@
 ## about me
 
 ```yaml
-role: Builder → joining OpenAI (starting [Month Year])
-focus: [your focus — ML / infra / product / etc.]
-currently: [what you're heads-down on right now]
-motto: "building things the internet probably doesn't need"
+role: Builder →  OpenAI
+focus: Supporting Lead Engineer
 ```
 
 <br/>
