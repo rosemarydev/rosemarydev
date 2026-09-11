@@ -90,10 +90,13 @@ motto: "building things the internet probably doesn't need"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rosemarydev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=rosemarydev&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarydev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/rosemarydev?style=for-the-badge&color=8B5CF6&labelColor=1a1b27"/>
 
 </div>
 
@@ -103,17 +106,7 @@ motto: "building things the internet probably doesn't need"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rosemarydev&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rosemarydev/rosemarydev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/8B5CF6/rosemarydev" width="100%"/>
 
 </div>
 
